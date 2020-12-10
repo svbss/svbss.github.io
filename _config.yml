@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: Cause Template
+title: Shri Ved Beena Seva Sansthan
 url: svbss.github.io
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: A not-for-profit organization. 
 author:
   name:
   email:
